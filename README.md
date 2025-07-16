@@ -1,4 +1,4 @@
-# 📊 Comparador de Herramientas de IA
+# 📊 Benchmark de Herramientas de IA
 
 Aplicación web para explorar, comparar y aprender sobre herramientas de Inteligencia Artificial, organizadas por categorías de uso.
 
