@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Generación de código",
+    "tools": [
+      {
+        "name": "GitHub Copilot",
+        "purpose": "Asistencia automática en la escritura de código",
+        "pricing": "10 USD/mes",
+        "features": ["Autocompletado inteligente", "Soporte para múltiples lenguajes", "Integración en VSCode"],
+        "learn_url": "https://docs.github.com/en/copilot",
+        "tool_url": "https://github.com/features/copilot"
+      },
+      {
+        "name": "CodeWhisperer",
+        "purpose": "Generación de código con IA de Amazon",
+        "pricing": "Gratis para uso individual",
+        "features": ["Integración con AWS", "Detección de vulnerabilidades"],
+        "learn_url": "https://docs.aws.amazon.com/codewhisperer/",
+        "tool_url": "https://aws.amazon.com/codewhisperer/"
+      }
+    ]
+  },
+  {
+    "category": "Generación de imágenes",
+    "tools": [
+      {
+        "name": "Midjourney",
+        "purpose": "Generación de imágenes artísticas por IA",
+        "pricing": "Desde 10 USD/mes",
+        "features": ["Estilo artístico", "Render en alta calidad", "Discord Bot"],
+        "learn_url": "https://docs.midjourney.com",
+        "tool_url": "https://www.midjourney.com/"
+      }
+    ]
+  }
+]
+
