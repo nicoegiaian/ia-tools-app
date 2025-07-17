@@ -5,9 +5,11 @@ import ToolGrid from "./components/ToolGrid";
 function App() {
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [allTools, setAllTools] = useState([]);
+  const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
+
 
   useEffect(() => {
-    fetch("http://172.31.243.110:8000/tools")
+      fetch(`${API_URL}/tools`)
       .then((res) => res.json())
       .then((data) => {
         console.log("🛠️ Herramientas recibidas:", data);
