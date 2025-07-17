@@ -19,7 +19,7 @@ for category in data:
             "purpose": tool["purpose"],
             "pricing": tool["pricing"],
             "features": tool["features"],
-            "learning_url": tool["learning_url"],
+            "learn_url": tool["learn_url"],
             "tool_url": tool["tool_url"]
         })
 
