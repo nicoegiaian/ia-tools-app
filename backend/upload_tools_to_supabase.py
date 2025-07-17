@@ -5,7 +5,7 @@ import httpx
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
 
-with open("ia_tools_data.json", "r", encoding="utf-8") as f:
+with open("ia_tools_data_full.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 tools = []
