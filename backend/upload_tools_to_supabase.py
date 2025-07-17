@@ -1,7 +1,8 @@
 import os
 import json
 import httpx
-
+from dotenv import load_dotenv
+load_dotenv()
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
 
@@ -30,7 +31,7 @@ headers = {
 }
 
 response = httpx.post(
-    f"{SUPABASE_URL}/rest/v1/tools",
+    f"{SUPABASE_URL}/rest/v1/ia_tools",
     headers=headers,
     json=tools
 )
