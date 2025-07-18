@@ -1,0 +1,1838 @@
+[
+  {
+    "category": "Generación de texto",
+    "description": "Creación de textos escritos con IA",
+    "tools": [
+      {
+        "name": "GeneraciónTool1",
+        "purpose": "Generación de texto - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/generacióndetexto/tool1",
+        "tool_url": "https://www.example.com/generacióndetexto/tool1"
+      },
+      {
+        "name": "GeneraciónTool2",
+        "purpose": "Generación de texto - funcionalidad 2",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/generacióndetexto/tool2",
+        "tool_url": "https://www.example.com/generacióndetexto/tool2"
+      },
+      {
+        "name": "GeneraciónTool3",
+        "purpose": "Generación de texto - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/generacióndetexto/tool3",
+        "tool_url": "https://www.example.com/generacióndetexto/tool3"
+      },
+      {
+        "name": "GeneraciónTool4",
+        "purpose": "Generación de texto - funcionalidad 4",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/generacióndetexto/tool4",
+        "tool_url": "https://www.example.com/generacióndetexto/tool4"
+      },
+      {
+        "name": "GeneraciónTool5",
+        "purpose": "Generación de texto - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/generacióndetexto/tool5",
+        "tool_url": "https://www.example.com/generacióndetexto/tool5"
+      },
+      {
+        "name": "GeneraciónTool6",
+        "purpose": "Generación de texto - funcionalidad 6",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/generacióndetexto/tool6",
+        "tool_url": "https://www.example.com/generacióndetexto/tool6"
+      }
+    ]
+  },
+  {
+    "category": "Generación de imágenes",
+    "description": "Creación de imágenes a partir de descripciones",
+    "tools": [
+      {
+        "name": "GeneraciónTool1",
+        "purpose": "Generación de imágenes - funcionalidad 1",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool1",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool1"
+      },
+      {
+        "name": "GeneraciónTool2",
+        "purpose": "Generación de imágenes - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool2",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool2"
+      },
+      {
+        "name": "GeneraciónTool3",
+        "purpose": "Generación de imágenes - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool3",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool3"
+      },
+      {
+        "name": "GeneraciónTool4",
+        "purpose": "Generación de imágenes - funcionalidad 4",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool4",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool4"
+      },
+      {
+        "name": "GeneraciónTool5",
+        "purpose": "Generación de imágenes - funcionalidad 5",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool5",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool5"
+      },
+      {
+        "name": "GeneraciónTool6",
+        "purpose": "Generación de imágenes - funcionalidad 6",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool6",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool6"
+      },
+      {
+        "name": "GeneraciónTool7",
+        "purpose": "Generación de imágenes - funcionalidad 7",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool7",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool7"
+      },
+      {
+        "name": "GeneraciónTool8",
+        "purpose": "Generación de imágenes - funcionalidad 8",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool8",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool8"
+      },
+      {
+        "name": "GeneraciónTool9",
+        "purpose": "Generación de imágenes - funcionalidad 9",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A9",
+          "Feature B9",
+          "Feature C9"
+        ],
+        "learn_url": "https://learn.example.com/generacióndeimágenes/tool9",
+        "tool_url": "https://www.example.com/generacióndeimágenes/tool9"
+      }
+    ]
+  },
+  {
+    "category": "Generación de voz",
+    "description": "Síntesis de voz desde texto",
+    "tools": [
+      {
+        "name": "GeneraciónTool1",
+        "purpose": "Generación de voz - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool1",
+        "tool_url": "https://www.example.com/generacióndevoz/tool1"
+      },
+      {
+        "name": "GeneraciónTool2",
+        "purpose": "Generación de voz - funcionalidad 2",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool2",
+        "tool_url": "https://www.example.com/generacióndevoz/tool2"
+      },
+      {
+        "name": "GeneraciónTool3",
+        "purpose": "Generación de voz - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool3",
+        "tool_url": "https://www.example.com/generacióndevoz/tool3"
+      },
+      {
+        "name": "GeneraciónTool4",
+        "purpose": "Generación de voz - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool4",
+        "tool_url": "https://www.example.com/generacióndevoz/tool4"
+      },
+      {
+        "name": "GeneraciónTool5",
+        "purpose": "Generación de voz - funcionalidad 5",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool5",
+        "tool_url": "https://www.example.com/generacióndevoz/tool5"
+      },
+      {
+        "name": "GeneraciónTool6",
+        "purpose": "Generación de voz - funcionalidad 6",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool6",
+        "tool_url": "https://www.example.com/generacióndevoz/tool6"
+      },
+      {
+        "name": "GeneraciónTool7",
+        "purpose": "Generación de voz - funcionalidad 7",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool7",
+        "tool_url": "https://www.example.com/generacióndevoz/tool7"
+      },
+      {
+        "name": "GeneraciónTool8",
+        "purpose": "Generación de voz - funcionalidad 8",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool8",
+        "tool_url": "https://www.example.com/generacióndevoz/tool8"
+      },
+      {
+        "name": "GeneraciónTool9",
+        "purpose": "Generación de voz - funcionalidad 9",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A9",
+          "Feature B9",
+          "Feature C9"
+        ],
+        "learn_url": "https://learn.example.com/generacióndevoz/tool9",
+        "tool_url": "https://www.example.com/generacióndevoz/tool9"
+      }
+    ]
+  },
+  {
+    "category": "Transcripción de audio",
+    "description": "Conversión de audio a texto",
+    "tools": [
+      {
+        "name": "TranscripciónTool1",
+        "purpose": "Transcripción de audio - funcionalidad 1",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/transcripcióndeaudio/tool1",
+        "tool_url": "https://www.example.com/transcripcióndeaudio/tool1"
+      },
+      {
+        "name": "TranscripciónTool2",
+        "purpose": "Transcripción de audio - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/transcripcióndeaudio/tool2",
+        "tool_url": "https://www.example.com/transcripcióndeaudio/tool2"
+      },
+      {
+        "name": "TranscripciónTool3",
+        "purpose": "Transcripción de audio - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/transcripcióndeaudio/tool3",
+        "tool_url": "https://www.example.com/transcripcióndeaudio/tool3"
+      },
+      {
+        "name": "TranscripciónTool4",
+        "purpose": "Transcripción de audio - funcionalidad 4",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/transcripcióndeaudio/tool4",
+        "tool_url": "https://www.example.com/transcripcióndeaudio/tool4"
+      },
+      {
+        "name": "TranscripciónTool5",
+        "purpose": "Transcripción de audio - funcionalidad 5",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/transcripcióndeaudio/tool5",
+        "tool_url": "https://www.example.com/transcripcióndeaudio/tool5"
+      },
+      {
+        "name": "TranscripciónTool6",
+        "purpose": "Transcripción de audio - funcionalidad 6",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/transcripcióndeaudio/tool6",
+        "tool_url": "https://www.example.com/transcripcióndeaudio/tool6"
+      },
+      {
+        "name": "TranscripciónTool7",
+        "purpose": "Transcripción de audio - funcionalidad 7",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/transcripcióndeaudio/tool7",
+        "tool_url": "https://www.example.com/transcripcióndeaudio/tool7"
+      }
+    ]
+  },
+  {
+    "category": "Traducción automática",
+    "description": "Traducción entre idiomas asistida por IA",
+    "tools": [
+      {
+        "name": "TraducciónTool1",
+        "purpose": "Traducción automática - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/traducciónautomática/tool1",
+        "tool_url": "https://www.example.com/traducciónautomática/tool1"
+      },
+      {
+        "name": "TraducciónTool2",
+        "purpose": "Traducción automática - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/traducciónautomática/tool2",
+        "tool_url": "https://www.example.com/traducciónautomática/tool2"
+      },
+      {
+        "name": "TraducciónTool3",
+        "purpose": "Traducción automática - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/traducciónautomática/tool3",
+        "tool_url": "https://www.example.com/traducciónautomática/tool3"
+      },
+      {
+        "name": "TraducciónTool4",
+        "purpose": "Traducción automática - funcionalidad 4",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/traducciónautomática/tool4",
+        "tool_url": "https://www.example.com/traducciónautomática/tool4"
+      },
+      {
+        "name": "TraducciónTool5",
+        "purpose": "Traducción automática - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/traducciónautomática/tool5",
+        "tool_url": "https://www.example.com/traducciónautomática/tool5"
+      },
+      {
+        "name": "TraducciónTool6",
+        "purpose": "Traducción automática - funcionalidad 6",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/traducciónautomática/tool6",
+        "tool_url": "https://www.example.com/traducciónautomática/tool6"
+      }
+    ]
+  },
+  {
+    "category": "Asistentes de escritura",
+    "description": "Corrección y mejora de textos",
+    "tools": [
+      {
+        "name": "AsistentesTool1",
+        "purpose": "Asistentes de escritura - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/asistentesdeescritura/tool1",
+        "tool_url": "https://www.example.com/asistentesdeescritura/tool1"
+      },
+      {
+        "name": "AsistentesTool2",
+        "purpose": "Asistentes de escritura - funcionalidad 2",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/asistentesdeescritura/tool2",
+        "tool_url": "https://www.example.com/asistentesdeescritura/tool2"
+      },
+      {
+        "name": "AsistentesTool3",
+        "purpose": "Asistentes de escritura - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/asistentesdeescritura/tool3",
+        "tool_url": "https://www.example.com/asistentesdeescritura/tool3"
+      },
+      {
+        "name": "AsistentesTool4",
+        "purpose": "Asistentes de escritura - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/asistentesdeescritura/tool4",
+        "tool_url": "https://www.example.com/asistentesdeescritura/tool4"
+      },
+      {
+        "name": "AsistentesTool5",
+        "purpose": "Asistentes de escritura - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/asistentesdeescritura/tool5",
+        "tool_url": "https://www.example.com/asistentesdeescritura/tool5"
+      }
+    ]
+  },
+  {
+    "category": "Generación de código",
+    "description": "Escritura automática de código",
+    "tools": [
+      {
+        "name": "GeneraciónTool1",
+        "purpose": "Generación de código - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool1",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool1"
+      },
+      {
+        "name": "GeneraciónTool2",
+        "purpose": "Generación de código - funcionalidad 2",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool2",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool2"
+      },
+      {
+        "name": "GeneraciónTool3",
+        "purpose": "Generación de código - funcionalidad 3",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool3",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool3"
+      },
+      {
+        "name": "GeneraciónTool4",
+        "purpose": "Generación de código - funcionalidad 4",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool4",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool4"
+      },
+      {
+        "name": "GeneraciónTool5",
+        "purpose": "Generación de código - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool5",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool5"
+      },
+      {
+        "name": "GeneraciónTool6",
+        "purpose": "Generación de código - funcionalidad 6",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool6",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool6"
+      },
+      {
+        "name": "GeneraciónTool7",
+        "purpose": "Generación de código - funcionalidad 7",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool7",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool7"
+      },
+      {
+        "name": "GeneraciónTool8",
+        "purpose": "Generación de código - funcionalidad 8",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool8",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool8"
+      },
+      {
+        "name": "GeneraciónTool9",
+        "purpose": "Generación de código - funcionalidad 9",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A9",
+          "Feature B9",
+          "Feature C9"
+        ],
+        "learn_url": "https://learn.example.com/generacióndecódigo/tool9",
+        "tool_url": "https://www.example.com/generacióndecódigo/tool9"
+      }
+    ]
+  },
+  {
+    "category": "Optimización SEO",
+    "description": "Herramientas IA para mejorar posicionamiento",
+    "tools": [
+      {
+        "name": "OptimizaciónTool1",
+        "purpose": "Optimización SEO - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool1",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool1"
+      },
+      {
+        "name": "OptimizaciónTool2",
+        "purpose": "Optimización SEO - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool2",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool2"
+      },
+      {
+        "name": "OptimizaciónTool3",
+        "purpose": "Optimización SEO - funcionalidad 3",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool3",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool3"
+      },
+      {
+        "name": "OptimizaciónTool4",
+        "purpose": "Optimización SEO - funcionalidad 4",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool4",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool4"
+      },
+      {
+        "name": "OptimizaciónTool5",
+        "purpose": "Optimización SEO - funcionalidad 5",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool5",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool5"
+      },
+      {
+        "name": "OptimizaciónTool6",
+        "purpose": "Optimización SEO - funcionalidad 6",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool6",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool6"
+      },
+      {
+        "name": "OptimizaciónTool7",
+        "purpose": "Optimización SEO - funcionalidad 7",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool7",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool7"
+      },
+      {
+        "name": "OptimizaciónTool8",
+        "purpose": "Optimización SEO - funcionalidad 8",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/optimizaciónseo/tool8",
+        "tool_url": "https://www.example.com/optimizaciónseo/tool8"
+      }
+    ]
+  },
+  {
+    "category": "CV y perfil profesional",
+    "description": "Generación de CVs o perfiles de LinkedIn",
+    "tools": [
+      {
+        "name": "CVTool1",
+        "purpose": "CV y perfil profesional - funcionalidad 1",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/cvyperfilprofesional/tool1",
+        "tool_url": "https://www.example.com/cvyperfilprofesional/tool1"
+      },
+      {
+        "name": "CVTool2",
+        "purpose": "CV y perfil profesional - funcionalidad 2",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/cvyperfilprofesional/tool2",
+        "tool_url": "https://www.example.com/cvyperfilprofesional/tool2"
+      },
+      {
+        "name": "CVTool3",
+        "purpose": "CV y perfil profesional - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/cvyperfilprofesional/tool3",
+        "tool_url": "https://www.example.com/cvyperfilprofesional/tool3"
+      },
+      {
+        "name": "CVTool4",
+        "purpose": "CV y perfil profesional - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/cvyperfilprofesional/tool4",
+        "tool_url": "https://www.example.com/cvyperfilprofesional/tool4"
+      },
+      {
+        "name": "CVTool5",
+        "purpose": "CV y perfil profesional - funcionalidad 5",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/cvyperfilprofesional/tool5",
+        "tool_url": "https://www.example.com/cvyperfilprofesional/tool5"
+      },
+      {
+        "name": "CVTool6",
+        "purpose": "CV y perfil profesional - funcionalidad 6",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/cvyperfilprofesional/tool6",
+        "tool_url": "https://www.example.com/cvyperfilprofesional/tool6"
+      }
+    ]
+  },
+  {
+    "category": "Presentaciones IA",
+    "description": "Creación de presentaciones automáticas",
+    "tools": [
+      {
+        "name": "PresentacionesTool1",
+        "purpose": "Presentaciones IA - funcionalidad 1",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool1",
+        "tool_url": "https://www.example.com/presentacionesia/tool1"
+      },
+      {
+        "name": "PresentacionesTool2",
+        "purpose": "Presentaciones IA - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool2",
+        "tool_url": "https://www.example.com/presentacionesia/tool2"
+      },
+      {
+        "name": "PresentacionesTool3",
+        "purpose": "Presentaciones IA - funcionalidad 3",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool3",
+        "tool_url": "https://www.example.com/presentacionesia/tool3"
+      },
+      {
+        "name": "PresentacionesTool4",
+        "purpose": "Presentaciones IA - funcionalidad 4",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool4",
+        "tool_url": "https://www.example.com/presentacionesia/tool4"
+      },
+      {
+        "name": "PresentacionesTool5",
+        "purpose": "Presentaciones IA - funcionalidad 5",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool5",
+        "tool_url": "https://www.example.com/presentacionesia/tool5"
+      },
+      {
+        "name": "PresentacionesTool6",
+        "purpose": "Presentaciones IA - funcionalidad 6",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool6",
+        "tool_url": "https://www.example.com/presentacionesia/tool6"
+      },
+      {
+        "name": "PresentacionesTool7",
+        "purpose": "Presentaciones IA - funcionalidad 7",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool7",
+        "tool_url": "https://www.example.com/presentacionesia/tool7"
+      },
+      {
+        "name": "PresentacionesTool8",
+        "purpose": "Presentaciones IA - funcionalidad 8",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool8",
+        "tool_url": "https://www.example.com/presentacionesia/tool8"
+      },
+      {
+        "name": "PresentacionesTool9",
+        "purpose": "Presentaciones IA - funcionalidad 9",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A9",
+          "Feature B9",
+          "Feature C9"
+        ],
+        "learn_url": "https://learn.example.com/presentacionesia/tool9",
+        "tool_url": "https://www.example.com/presentacionesia/tool9"
+      }
+    ]
+  },
+  {
+    "category": "Automatización de tareas",
+    "description": "Automatización de flujos mediante IA",
+    "tools": [
+      {
+        "name": "AutomatizaciónTool1",
+        "purpose": "Automatización de tareas - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/automatizacióndetareas/tool1",
+        "tool_url": "https://www.example.com/automatizacióndetareas/tool1"
+      },
+      {
+        "name": "AutomatizaciónTool2",
+        "purpose": "Automatización de tareas - funcionalidad 2",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/automatizacióndetareas/tool2",
+        "tool_url": "https://www.example.com/automatizacióndetareas/tool2"
+      },
+      {
+        "name": "AutomatizaciónTool3",
+        "purpose": "Automatización de tareas - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/automatizacióndetareas/tool3",
+        "tool_url": "https://www.example.com/automatizacióndetareas/tool3"
+      },
+      {
+        "name": "AutomatizaciónTool4",
+        "purpose": "Automatización de tareas - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/automatizacióndetareas/tool4",
+        "tool_url": "https://www.example.com/automatizacióndetareas/tool4"
+      },
+      {
+        "name": "AutomatizaciónTool5",
+        "purpose": "Automatización de tareas - funcionalidad 5",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/automatizacióndetareas/tool5",
+        "tool_url": "https://www.example.com/automatizacióndetareas/tool5"
+      },
+      {
+        "name": "AutomatizaciónTool6",
+        "purpose": "Automatización de tareas - funcionalidad 6",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/automatizacióndetareas/tool6",
+        "tool_url": "https://www.example.com/automatizacióndetareas/tool6"
+      },
+      {
+        "name": "AutomatizaciónTool7",
+        "purpose": "Automatización de tareas - funcionalidad 7",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/automatizacióndetareas/tool7",
+        "tool_url": "https://www.example.com/automatizacióndetareas/tool7"
+      }
+    ]
+  },
+  {
+    "category": "Análisis de sentimientos",
+    "description": "Evaluación emocional de textos",
+    "tools": [
+      {
+        "name": "AnálisisTool1",
+        "purpose": "Análisis de sentimientos - funcionalidad 1",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/análisisdesentimientos/tool1",
+        "tool_url": "https://www.example.com/análisisdesentimientos/tool1"
+      },
+      {
+        "name": "AnálisisTool2",
+        "purpose": "Análisis de sentimientos - funcionalidad 2",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/análisisdesentimientos/tool2",
+        "tool_url": "https://www.example.com/análisisdesentimientos/tool2"
+      },
+      {
+        "name": "AnálisisTool3",
+        "purpose": "Análisis de sentimientos - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/análisisdesentimientos/tool3",
+        "tool_url": "https://www.example.com/análisisdesentimientos/tool3"
+      },
+      {
+        "name": "AnálisisTool4",
+        "purpose": "Análisis de sentimientos - funcionalidad 4",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/análisisdesentimientos/tool4",
+        "tool_url": "https://www.example.com/análisisdesentimientos/tool4"
+      },
+      {
+        "name": "AnálisisTool5",
+        "purpose": "Análisis de sentimientos - funcionalidad 5",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/análisisdesentimientos/tool5",
+        "tool_url": "https://www.example.com/análisisdesentimientos/tool5"
+      }
+    ]
+  },
+  {
+    "category": "LegalTech",
+    "description": "Asistentes y resúmenes legales con IA",
+    "tools": [
+      {
+        "name": "LegalTechTool1",
+        "purpose": "LegalTech - funcionalidad 1",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool1",
+        "tool_url": "https://www.example.com/legaltech/tool1"
+      },
+      {
+        "name": "LegalTechTool2",
+        "purpose": "LegalTech - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool2",
+        "tool_url": "https://www.example.com/legaltech/tool2"
+      },
+      {
+        "name": "LegalTechTool3",
+        "purpose": "LegalTech - funcionalidad 3",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool3",
+        "tool_url": "https://www.example.com/legaltech/tool3"
+      },
+      {
+        "name": "LegalTechTool4",
+        "purpose": "LegalTech - funcionalidad 4",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool4",
+        "tool_url": "https://www.example.com/legaltech/tool4"
+      },
+      {
+        "name": "LegalTechTool5",
+        "purpose": "LegalTech - funcionalidad 5",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool5",
+        "tool_url": "https://www.example.com/legaltech/tool5"
+      },
+      {
+        "name": "LegalTechTool6",
+        "purpose": "LegalTech - funcionalidad 6",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool6",
+        "tool_url": "https://www.example.com/legaltech/tool6"
+      },
+      {
+        "name": "LegalTechTool7",
+        "purpose": "LegalTech - funcionalidad 7",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool7",
+        "tool_url": "https://www.example.com/legaltech/tool7"
+      },
+      {
+        "name": "LegalTechTool8",
+        "purpose": "LegalTech - funcionalidad 8",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool8",
+        "tool_url": "https://www.example.com/legaltech/tool8"
+      },
+      {
+        "name": "LegalTechTool9",
+        "purpose": "LegalTech - funcionalidad 9",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A9",
+          "Feature B9",
+          "Feature C9"
+        ],
+        "learn_url": "https://learn.example.com/legaltech/tool9",
+        "tool_url": "https://www.example.com/legaltech/tool9"
+      }
+    ]
+  },
+  {
+    "category": "Proyectos y productividad",
+    "description": "Gestión de tareas asistida por IA",
+    "tools": [
+      {
+        "name": "ProyectosTool1",
+        "purpose": "Proyectos y productividad - funcionalidad 1",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool1",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool1"
+      },
+      {
+        "name": "ProyectosTool2",
+        "purpose": "Proyectos y productividad - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool2",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool2"
+      },
+      {
+        "name": "ProyectosTool3",
+        "purpose": "Proyectos y productividad - funcionalidad 3",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool3",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool3"
+      },
+      {
+        "name": "ProyectosTool4",
+        "purpose": "Proyectos y productividad - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool4",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool4"
+      },
+      {
+        "name": "ProyectosTool5",
+        "purpose": "Proyectos y productividad - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool5",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool5"
+      },
+      {
+        "name": "ProyectosTool6",
+        "purpose": "Proyectos y productividad - funcionalidad 6",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool6",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool6"
+      },
+      {
+        "name": "ProyectosTool7",
+        "purpose": "Proyectos y productividad - funcionalidad 7",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool7",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool7"
+      },
+      {
+        "name": "ProyectosTool8",
+        "purpose": "Proyectos y productividad - funcionalidad 8",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool8",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool8"
+      },
+      {
+        "name": "ProyectosTool9",
+        "purpose": "Proyectos y productividad - funcionalidad 9",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A9",
+          "Feature B9",
+          "Feature C9"
+        ],
+        "learn_url": "https://learn.example.com/proyectosyproductividad/tool9",
+        "tool_url": "https://www.example.com/proyectosyproductividad/tool9"
+      }
+    ]
+  },
+  {
+    "category": "UX/UI Design",
+    "description": "Soporte a diseño con IA",
+    "tools": [
+      {
+        "name": "UX/UITool1",
+        "purpose": "UX/UI Design - funcionalidad 1",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/ux/uidesign/tool1",
+        "tool_url": "https://www.example.com/ux/uidesign/tool1"
+      },
+      {
+        "name": "UX/UITool2",
+        "purpose": "UX/UI Design - funcionalidad 2",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/ux/uidesign/tool2",
+        "tool_url": "https://www.example.com/ux/uidesign/tool2"
+      },
+      {
+        "name": "UX/UITool3",
+        "purpose": "UX/UI Design - funcionalidad 3",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/ux/uidesign/tool3",
+        "tool_url": "https://www.example.com/ux/uidesign/tool3"
+      },
+      {
+        "name": "UX/UITool4",
+        "purpose": "UX/UI Design - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/ux/uidesign/tool4",
+        "tool_url": "https://www.example.com/ux/uidesign/tool4"
+      },
+      {
+        "name": "UX/UITool5",
+        "purpose": "UX/UI Design - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/ux/uidesign/tool5",
+        "tool_url": "https://www.example.com/ux/uidesign/tool5"
+      }
+    ]
+  },
+  {
+    "category": "Finanzas personales",
+    "description": "Asistentes para finanzas y gastos",
+    "tools": [
+      {
+        "name": "FinanzasTool1",
+        "purpose": "Finanzas personales - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/finanzaspersonales/tool1",
+        "tool_url": "https://www.example.com/finanzaspersonales/tool1"
+      },
+      {
+        "name": "FinanzasTool2",
+        "purpose": "Finanzas personales - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/finanzaspersonales/tool2",
+        "tool_url": "https://www.example.com/finanzaspersonales/tool2"
+      },
+      {
+        "name": "FinanzasTool3",
+        "purpose": "Finanzas personales - funcionalidad 3",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/finanzaspersonales/tool3",
+        "tool_url": "https://www.example.com/finanzaspersonales/tool3"
+      },
+      {
+        "name": "FinanzasTool4",
+        "purpose": "Finanzas personales - funcionalidad 4",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/finanzaspersonales/tool4",
+        "tool_url": "https://www.example.com/finanzaspersonales/tool4"
+      },
+      {
+        "name": "FinanzasTool5",
+        "purpose": "Finanzas personales - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/finanzaspersonales/tool5",
+        "tool_url": "https://www.example.com/finanzaspersonales/tool5"
+      },
+      {
+        "name": "FinanzasTool6",
+        "purpose": "Finanzas personales - funcionalidad 6",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/finanzaspersonales/tool6",
+        "tool_url": "https://www.example.com/finanzaspersonales/tool6"
+      }
+    ]
+  },
+  {
+    "category": "Generadores de video",
+    "description": "Creación de videos desde texto o imagen",
+    "tools": [
+      {
+        "name": "GeneradoresTool1",
+        "purpose": "Generadores de video - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/generadoresdevideo/tool1",
+        "tool_url": "https://www.example.com/generadoresdevideo/tool1"
+      },
+      {
+        "name": "GeneradoresTool2",
+        "purpose": "Generadores de video - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/generadoresdevideo/tool2",
+        "tool_url": "https://www.example.com/generadoresdevideo/tool2"
+      },
+      {
+        "name": "GeneradoresTool3",
+        "purpose": "Generadores de video - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/generadoresdevideo/tool3",
+        "tool_url": "https://www.example.com/generadoresdevideo/tool3"
+      },
+      {
+        "name": "GeneradoresTool4",
+        "purpose": "Generadores de video - funcionalidad 4",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/generadoresdevideo/tool4",
+        "tool_url": "https://www.example.com/generadoresdevideo/tool4"
+      },
+      {
+        "name": "GeneradoresTool5",
+        "purpose": "Generadores de video - funcionalidad 5",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/generadoresdevideo/tool5",
+        "tool_url": "https://www.example.com/generadoresdevideo/tool5"
+      },
+      {
+        "name": "GeneradoresTool6",
+        "purpose": "Generadores de video - funcionalidad 6",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/generadoresdevideo/tool6",
+        "tool_url": "https://www.example.com/generadoresdevideo/tool6"
+      }
+    ]
+  },
+  {
+    "category": "IA para educación",
+    "description": "Apoyo a estudiantes y docentes",
+    "tools": [
+      {
+        "name": "IATool1",
+        "purpose": "IA para educación - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool1",
+        "tool_url": "https://www.example.com/iaparaeducación/tool1"
+      },
+      {
+        "name": "IATool2",
+        "purpose": "IA para educación - funcionalidad 2",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool2",
+        "tool_url": "https://www.example.com/iaparaeducación/tool2"
+      },
+      {
+        "name": "IATool3",
+        "purpose": "IA para educación - funcionalidad 3",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool3",
+        "tool_url": "https://www.example.com/iaparaeducación/tool3"
+      },
+      {
+        "name": "IATool4",
+        "purpose": "IA para educación - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool4",
+        "tool_url": "https://www.example.com/iaparaeducación/tool4"
+      },
+      {
+        "name": "IATool5",
+        "purpose": "IA para educación - funcionalidad 5",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool5",
+        "tool_url": "https://www.example.com/iaparaeducación/tool5"
+      },
+      {
+        "name": "IATool6",
+        "purpose": "IA para educación - funcionalidad 6",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool6",
+        "tool_url": "https://www.example.com/iaparaeducación/tool6"
+      },
+      {
+        "name": "IATool7",
+        "purpose": "IA para educación - funcionalidad 7",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool7",
+        "tool_url": "https://www.example.com/iaparaeducación/tool7"
+      },
+      {
+        "name": "IATool8",
+        "purpose": "IA para educación - funcionalidad 8",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/iaparaeducación/tool8",
+        "tool_url": "https://www.example.com/iaparaeducación/tool8"
+      }
+    ]
+  },
+  {
+    "category": "Recursos Humanos",
+    "description": "Screening de CVs, entrevistas, evaluaciones",
+    "tools": [
+      {
+        "name": "RecursosTool1",
+        "purpose": "Recursos Humanos - funcionalidad 1",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool1",
+        "tool_url": "https://www.example.com/recursoshumanos/tool1"
+      },
+      {
+        "name": "RecursosTool2",
+        "purpose": "Recursos Humanos - funcionalidad 2",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool2",
+        "tool_url": "https://www.example.com/recursoshumanos/tool2"
+      },
+      {
+        "name": "RecursosTool3",
+        "purpose": "Recursos Humanos - funcionalidad 3",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool3",
+        "tool_url": "https://www.example.com/recursoshumanos/tool3"
+      },
+      {
+        "name": "RecursosTool4",
+        "purpose": "Recursos Humanos - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool4",
+        "tool_url": "https://www.example.com/recursoshumanos/tool4"
+      },
+      {
+        "name": "RecursosTool5",
+        "purpose": "Recursos Humanos - funcionalidad 5",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool5",
+        "tool_url": "https://www.example.com/recursoshumanos/tool5"
+      },
+      {
+        "name": "RecursosTool6",
+        "purpose": "Recursos Humanos - funcionalidad 6",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A6",
+          "Feature B6",
+          "Feature C6"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool6",
+        "tool_url": "https://www.example.com/recursoshumanos/tool6"
+      },
+      {
+        "name": "RecursosTool7",
+        "purpose": "Recursos Humanos - funcionalidad 7",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A7",
+          "Feature B7",
+          "Feature C7"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool7",
+        "tool_url": "https://www.example.com/recursoshumanos/tool7"
+      },
+      {
+        "name": "RecursosTool8",
+        "purpose": "Recursos Humanos - funcionalidad 8",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A8",
+          "Feature B8",
+          "Feature C8"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool8",
+        "tool_url": "https://www.example.com/recursoshumanos/tool8"
+      },
+      {
+        "name": "RecursosTool9",
+        "purpose": "Recursos Humanos - funcionalidad 9",
+        "pricing": "Gratis",
+        "features": [
+          "Feature A9",
+          "Feature B9",
+          "Feature C9"
+        ],
+        "learn_url": "https://learn.example.com/recursoshumanos/tool9",
+        "tool_url": "https://www.example.com/recursoshumanos/tool9"
+      }
+    ]
+  },
+  {
+    "category": "Ecommerce",
+    "description": "Herramientas IA para ventas online y marketplaces",
+    "tools": [
+      {
+        "name": "EcommerceTool1",
+        "purpose": "Ecommerce - funcionalidad 1",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A1",
+          "Feature B1",
+          "Feature C1"
+        ],
+        "learn_url": "https://learn.example.com/ecommerce/tool1",
+        "tool_url": "https://www.example.com/ecommerce/tool1"
+      },
+      {
+        "name": "EcommerceTool2",
+        "purpose": "Ecommerce - funcionalidad 2",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A2",
+          "Feature B2",
+          "Feature C2"
+        ],
+        "learn_url": "https://learn.example.com/ecommerce/tool2",
+        "tool_url": "https://www.example.com/ecommerce/tool2"
+      },
+      {
+        "name": "EcommerceTool3",
+        "purpose": "Ecommerce - funcionalidad 3",
+        "pricing": "Plan básico + Pro",
+        "features": [
+          "Feature A3",
+          "Feature B3",
+          "Feature C3"
+        ],
+        "learn_url": "https://learn.example.com/ecommerce/tool3",
+        "tool_url": "https://www.example.com/ecommerce/tool3"
+      },
+      {
+        "name": "EcommerceTool4",
+        "purpose": "Ecommerce - funcionalidad 4",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A4",
+          "Feature B4",
+          "Feature C4"
+        ],
+        "learn_url": "https://learn.example.com/ecommerce/tool4",
+        "tool_url": "https://www.example.com/ecommerce/tool4"
+      },
+      {
+        "name": "EcommerceTool5",
+        "purpose": "Ecommerce - funcionalidad 5",
+        "pricing": "Desde 9 USD/mes",
+        "features": [
+          "Feature A5",
+          "Feature B5",
+          "Feature C5"
+        ],
+        "learn_url": "https://learn.example.com/ecommerce/tool5",
+        "tool_url": "https://www.example.com/ecommerce/tool5"
+      }
+    ]
+  }
+]
