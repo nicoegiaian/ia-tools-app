@@ -1,0 +1,432 @@
+[
+  {
+    "category": "Armado de CV",
+    "description": "Armado de CVs",
+    "tools": [
+      {
+        "name": "Kickresume",
+        "purpose": "Crear CV y carta con IA + plantillas ATS-friendly",
+        "pricing": "Gratis; Premium desde USD 19/mes",
+        "features": ["40+ plantillas", "IA para contenido", "verificador de CV", "sitio personal", "importación LinkedIn"],
+        "learn_url": "https://www.kickresume.com/en/help-center/",
+        "tool_url": "https://www.kickresume.com/"
+      },
+      {
+        "name": "Enhancv",
+        "purpose": "CV visual con recomendaciones de IA",
+        "pricing": "7 días gratis; luego desde USD 13.33/mes pago semestral",
+        "features": ["Chat IA para texto", "plantillas aprobadas", "drag‑and‑drop"],
+        "learn_url": "https://enhancv.com/resources/",
+        "tool_url": "https://enhancv.com/"
+      },
+      {
+        "name": "Zety",
+        "purpose": "Generar CV optimizado para ATS",
+        "pricing": "Gratis vista; USD 5.99/mes acceso completo",
+        "features": ["Editor con sugerencias", "optimización ATS", "templates variados"],
+        "learn_url": "https://zety.com/blog/",
+        "tool_url": "https://zety.com/"
+      },
+      {
+        "name": "Rezi",
+        "purpose": "CV con IA y análisis de coincidencias con oferta",
+        "pricing": "Gratis; Pro USD 24.99/mes",
+        "features": ["Escaneo ATS", "plantillas PDF/Word", "editor IA"],
+        "learn_url": "https://www.rezi.ai/blog/",
+        "tool_url": "https://www.rezi.ai/"
+      },
+      {
+        "name": "Jobscan",
+        "purpose": "Comparar CV y ofertas para optimizar palabras claves",
+        "pricing": "Gratis 5 escaneos; Pro USD 49.95/mes",
+        "features": ["Match con descripción de trabajo", "informes personalizados", "plantillas"],
+        "learn_url": "https://www.jobscan.co/blog/",
+        "tool_url": "https://www.jobscan.co/"
+      },
+      {
+        "name": "Novorésumé",
+        "purpose": "Herramienta de CV moderna + carta + cover",
+        "pricing": "Gratis básico; Premium USD 16/mes",
+        "features": ["Plantillas NCS", "consejos integrados", "exportación formatos"],
+        "learn_url": "https://novoresume.com/career-blog",
+        "tool_url": "https://novoresume.com/"
+      },
+      {
+        "name": "Canva AI Resume Builder",
+        "purpose": "CV visual con IA embebida",
+        "pricing": "Gratis; Pro USD 12.99/mes",
+        "features": ["Editor visual", "sugerencia de contenido", "plantillas gráficas"],
+        "learn_url": "https://www.canva.com/learn/",
+        "tool_url": "https://www.canva.com/ai-resume-builder/"
+      },
+      {
+        "name": "ResumeBuild",
+        "purpose": "Crear CV con IA y guía paso a paso",
+        "pricing": "Gratis básico; Premium pago único desde ~USD 24",
+        "features": ["Editor guiado", "plantillas + exportación", "descripciones pre‑hechas"],
+        "learn_url": "https://resumebuild.ai/blog/",
+        "tool_url": "https://resumebuild.ai/"
+      },
+      {
+        "name": "Resume Genius",
+        "purpose": "Generación rápida de CV con IA basado en perfiles",
+        "pricing": "USD 2.95/semana trial",
+        "features": ["Editor paso‑a‑paso", "plantillas", "sugerencias automáticas"],
+        "learn_url": "https://resumegenius.com/blog",
+        "tool_url": "https://resumegenius.com/"
+      },
+      {
+        "name": "MyPerfectResume",
+        "purpose": "CV y carta con asistente inteligente",
+        "pricing": "Desde USD 29.95/mes",
+        "features": ["Editor personalizable", "plantillas profesionales", "contenido sugerido"],
+        "learn_url": "https://www.myperfectresume.com/career-center/",
+        "tool_url": "https://www.myperfectresume.com/"
+      }
+    ]
+  },
+  {
+    "category": "Generación de Presentaciones",
+    "description":  "Generación de Presentaciones",
+    "tools": [
+      {
+        "name": "Gamma",
+        "purpose": "Crear decks interactivos con IA",
+        "pricing": "Gratis; Plus USD 10/mes; Pro USD 20/mes",
+        "features": ["Modelos IA múltiples", "exportación PPT/PDF", "analytics"],
+        "learn_url": "https://help.gamma.app/",
+        "tool_url": "https://gamma.app/"
+      },
+      {
+        "name": "Tome",
+        "purpose": "Generación narrativa de presentaciones",
+        "pricing": "Gratis; Pro USD 20/mes",
+        "features": ["Texto+imágenes IA", "analítica engagement", "exportar web"],
+        "learn_url": "https://tome.app/learn",
+        "tool_url": "https://tome.app/"
+      },
+      {
+        "name": "Beautiful.ai",
+        "purpose": "Diseño de slides automático",
+        "pricing": "Pro USD 12/mes; Teams USD 50/mes",
+        "features": ["Diseño smart", "plantillas profesionales", "sincronización"],
+        "learn_url": "https://support.beautiful.ai/hc/en-us",
+        "tool_url": "https://www.beautiful.ai/"
+      },
+      {
+        "name": "Pitch",
+        "purpose": "Presentaciones colaborativas modernas",
+        "pricing": "Gratis; Pro USD 8/mes",
+        "features": ["Colaboración en vivo", "plantillas de marca", "IA para contenido"],
+        "learn_url": "https://help.pitch.com/",
+        "tool_url": "https://pitch.com/"
+      },
+      {
+        "name": "MagicSlides",
+        "purpose": "Crear slides desde IA con un prompt",
+        "pricing": "Gratis; Pro USD 8/mes",
+        "features": ["Importar prompts textuales", "export PPT", "temas variados"],
+        "learn_url": "https://magicslides.app/docs",
+        "tool_url": "https://magicslides.app/"
+      },
+      {
+        "name": "SlidesAI",
+        "purpose": "Generar decks PPT de documentos/texto",
+        "pricing": "Gratis; Pro USD 8/mes",
+        "features": ["Carga de texto", "IA summarizer", "export PPT"],
+        "learn_url": "https://slidesai.io/docs",
+        "tool_url": "https://slidesai.io/"
+      },
+      {
+        "name": "Presentations.ai",
+        "purpose": "IA conversacional para armar presentaciones",
+        "pricing": "Desde USD 12/mes",
+        "features": ["IA estilo chat", "export rápido", "plantillas"],
+        "learn_url": "https://presentations.ai/docs",
+        "tool_url": "https://presentations.ai/"
+      },
+      {
+        "name": "Plus AI",
+        "purpose": "Presentaciones y documentos IA todo‑en‑uno",
+        "pricing": "Desde USD 14/mes",
+        "features": ["Múltiples formatos", "colaborativo", "templates IA"],
+        "learn_url": "https://plus.ai/learn",
+        "tool_url": "https://plus.ai/"
+      },
+      {
+        "name": "Canva Magic Design",
+        "purpose": "Generar presentaciones visuales IA",
+        "pricing": "Gratis; Pro USD 12.99/mes",
+        "features": ["Editor gráfico", "IA de diseño", "plantillas variadas"],
+        "learn_url": "https://www.canva.com/learn/",
+        "tool_url": "https://www.canva.com/"
+      },
+      {
+        "name": "Microsoft Copilot for PowerPoint",
+        "purpose": "IA integrada en PowerPoint para mejorar diapositivas",
+        "pricing": "Incluido en Microsoft 365/Prompts avanzados USD 20/mes",
+        "features": ["Sugerencias visuales/texto", "revisión de diseño", "resumen automático"],
+        "learn_url": "https://support.microsoft.com/en-us/powerpoint",
+        "tool_url": "https://www.microsoft.com/en-us/microsoft-365"
+      }
+    ]
+  },
+  {
+    "category": "Desarrollo de Código",
+     "description":  "Desarrollo de Código",
+     "tools": [
+      {
+        "name": "GitHub Copilot",
+        "purpose": "Autocompletado y generación de código con IA",
+        "pricing": "USD 10/mes individual",
+        "features": ["Completa funciones", "soporte multi‑lenguaje", "sugerencias contextuales"],
+        "learn_url": "https://docs.github.com/copilot",
+        "tool_url": "https://github.com/features/copilot"
+      },
+      {
+        "name": "Amazon CodeWhisperer",
+        "purpose": "Autocompletado y recomendaciones de seguridad",
+        "pricing": "Gratis (50 000 líneas/mes), luego pago",
+        "features": ["Sugerencias tiempo real", "seguridad integrada", "soporte AWS"],
+        "learn_url": "https://aws.amazon.com/codewhisperer/getting-started/",
+        "tool_url": "https://aws.amazon.com/codewhisperer/"
+      },
+      {
+        "name": "Tabnine",
+        "purpose": "Asistente de código IA local o nube",
+        "pricing": "Desde USD 12/mes",
+        "features": ["Modelos personalizados", "auto‑completar", "soporte multi‑lenguaje"],
+        "learn_url": "https://docs.tabnine.com/",
+        "tool_url": "https://www.tabnine.com/"
+      },
+      {
+        "name": "Replit AI",
+        "purpose": "Generación y corrección de código en navegador",
+        "pricing": "Gratis; Hacker USD 20/mes",
+        "features": ["Code completions", "debugging IA", "entorno colaborativo"],
+        "learn_url": "https://docs.replit.com/ai",
+        "tool_url": "https://replit.com/site/ai"
+      },
+      {
+        "name": "Anthropic Claude Opus",
+        "purpose": "API para generar y depurar código con IA",
+        "pricing": "USD 15/millón tokens",
+        "features": ["Depuración", "explicación de código", "soporte multi‑lenguaje"],
+        "learn_url": "https://docs.anthropic.com/",
+        "tool_url": "https://www.anthropic.com/"
+      },
+      {
+        "name": "OpenAI Codex",
+        "purpose": "Motor IA para generación de código via API",
+        "pricing": "Pago según uso OPENAI; incluido en ChatGPT Plus",
+        "features": ["Traducción NL→código", "corrección", "asistente multi‑lenguaje"],
+        "learn_url": "https://platform.openai.com/docs/guides/codex",
+        "tool_url": "https://openai.com/api/codex"
+      },
+      {
+        "name": "Qodo",
+        "purpose": "Sugerencias y generación de código para Python, JS, etc.",
+        "pricing": "Desde USD 19/mes",
+        "features": ["Chat IA especializado", "snippet completions", "templates"],
+        "learn_url": "https://qodo.ai/blog",
+        "tool_url": "https://qodo.ai/"
+      },
+      {
+        "name": "Cursor",
+        "purpose": "Editor asistido con IA para desarrolladores",
+        "pricing": "USD 20/mes",
+        "features": ["Navigación asistida", "completado de código", "soporte de docstrings"],
+        "learn_url": "https://docs.cursor.so/",
+        "tool_url": "https://www.cursor.so/"
+      },
+      {
+        "name": "GitLab AI Assistant",
+        "purpose": "Generación de merges, snippets y documentación",
+        "pricing": "Incluido en GitLab Ultimate (USD 99/usuario/mes)",
+        "features": ["Auto‑merge requests", "traducción de código", "generación doc"],
+        "learn_url": "https://docs.gitlab.com/ee/user/ci/ai_assistant/",
+        "tool_url": "https://about.gitlab.com/features/ai/"
+      },
+      {
+        "name": "CodeT5",
+        "purpose": "Modelo open‑source para generación de código",
+        "pricing": "Gratis (modelo open‑source)",
+        "features": ["Entrenable y descargable", "multi‑lenguaje", "integrable en IDEs"],
+        "learn_url": "https://github.com/salesforce/CodeT5",
+        "tool_url": "https://github.com/salesforce/CodeT5"
+      }
+    ]
+  },
+  {
+    "category": "Escritura Asistida",
+      "description":  "Escritura Asistida",
+     "tools": [
+      {
+        "name": "ChatGPT (OpenAI)",
+        "purpose": "Asistente conversacional para redacción, ideas, corrección",
+        "pricing": "Gratis con GPT‑3.5; GPT‑4 USD 20/mes ChatGPT Plus",
+        "features": ["Redacción creativa", "resúmenes", "traducción", "QA"],
+        "learn_url": "https://platform.openai.com/docs/",
+        "tool_url": "https://chat.openai.com/"
+      },
+      {
+        "name": "Sudowrite",
+        "purpose": "Ayuda creativa a escritores con IA",
+        "pricing": "Desde USD 20/mes (Starter)",
+        "features": ["Continuación de texto", "descripciones", "modificación de tono"],
+        "learn_url": "https://www.sudowrite.com/help",
+        "tool_url": "https://www.sudowrite.com/"
+      },
+      {
+        "name": "Rytr",
+        "purpose": "Generación de contenido breve (blogs, emails)",
+        "pricing": "Gratis 10k caracteres; Pro USD 9/mes",
+        "features": ["Templates múltiples", "SEO integrado", "multilenguaje"],
+        "learn_url": "https://help.rytr.me/",
+        "tool_url": "https://rytr.me/"
+      },
+      {
+        "name": "Writesonic",
+        "purpose": "Contenido largo, marketing y correos con IA",
+        "pricing": "Gratis 10 créditos; plan Creator USD 12.67/mes",
+        "features": ["Editor de blogs", "anuncios", "IA paraphrase"],
+        "learn_url": "https://writesonic.com/help",
+        "tool_url": "https://writesonic.com/"
+      },
+      {
+        "name": "Jasper AI",
+        "purpose": "Redacción para marketing, redes, blogs",
+        "pricing": "Starter USD 39/mes; Boss Mode USD 99/mes",
+        "features": ["Templates, SEO, fantasía de voz", "integraciones"],
+        "learn_url": "https://jasper.ai/resources",
+        "tool_url": "https://jasper.ai/"
+      },
+      {
+        "name": "GrammarlyGo",
+        "purpose": "Asistente de escritura con IA en corrección y estilo",
+        "pricing": "Gratis básico; Premium USD 12/mes; Teams USD 15/usuario",
+        "features": ["Corrección gramática", "tono y claridad", "reformulación"],
+        "learn_url": "https://support.grammarly.com/",
+        "tool_url": "https://grammarly.com/go"
+      },
+      {
+        "name": "QuillBot",
+        "purpose": "Paráfrasis, resumen y mejora de texto",
+        "pricing": "Gratis; Premium USD 9.95/mes",
+        "features": ["Paráfrasis en varios estilos", "resumidor", "corrección"],
+        "learn_url": "https://quillbot.com/resources",
+        "tool_url": "https://quillbot.com/"
+      },
+      {
+        "name": "ProWritingAid",
+        "purpose": "Revisión de estilo, gramática y consistencia",
+        "pricing": "Desde USD 20/mes; anual USD 79",
+        "features": ["Revisión estilo", "reportes profundos", "integración apps"],
+        "learn_url": "https://prowritingaid.com/en/App/Help",
+        "tool_url": "https://prowritingaid.com/"
+      },
+      {
+        "name": "INK Editor",
+        "purpose": "Redacción SEO-friendly con IA",
+        "pricing": "Gratis; Pro USD 15/mes",
+        "features": ["SEO analítico", "redacción IA", "optimizador de contenido"],
+        "learn_url": "https://inkforall.com/help",
+        "tool_url": "https://inkforall.com/"
+      },
+      {
+        "name": "Copy.ai",
+        "purpose": "Generación de marketing, redes y anuncios",
+        "pricing": "Gratis; Pro USD 49/mes",
+        "features": ["Templates diversos", "generación rápida", "multi‑idioma"],
+        "learn_url": "https://help.copy.ai/",
+        "tool_url": "https://copy.ai/"
+      }
+    ]
+  },
+  {
+    "category": "Generación de Video",
+      "description":  "Generación de Video",
+     "tools": [
+      {
+        "name": "Synthesia",
+        "purpose": "Videos con avatar IA multilingüe",
+        "pricing": "Desde USD 30/video o USD 30/mes básico",
+        "features": ["Avatares hablantes", "108+ idiomas", "subtítulos automáticos"],
+        "learn_url": "https://support.synthesia.io/en/",
+        "tool_url": "https://www.synthesia.io/"
+      },
+      {
+        "name": "Pictory",
+        "purpose": "Generación de video a partir de texto/artículos",
+        "pricing": "Gratis 3 videos; Premium USD 19/mes",
+        "features": ["IA summary", "voiceover IA", "stock media integrado"],
+        "learn_url": "https://help.pictory.ai/",
+        "tool_url": "https://pictory.ai/"
+      },
+      {
+        "name": "Opus Clip",
+        "purpose": "Clips automáticos de videos largos",
+        "pricing": "Gratis; Premium USD 20/mes",
+        "features": ["Detección highlights", "subtítulos", "formatos RRSS"],
+        "learn_url": "https://support.opusclip.com/",
+        "tool_url": "https://opusclip.com/"
+      },
+      {
+        "name": "Elai.io",
+        "purpose": "Videos con presentador IA y guion",
+        "pricing": "Desde USD 39/mes",
+        "features": ["Presentadores IA", "traducción avatares", "custom templates"],
+        "learn_url": "https://elai.io/docs",
+        "tool_url": "https://elai.io/"
+      },
+      {
+        "name": "Runway",
+        "purpose": "Edición de video con IA (fondo, estilo, efectos)",
+        "pricing": "Gratis; Pro USD 12/mes",
+        "features": ["Remoción fondo", "estilo realista", "texto a video"],
+        "learn_url": "https://docs.runwayml.com/",
+        "tool_url": "https://runwayml.com/"
+      },
+      {
+        "name": "Lumen5",
+        "purpose": "Crear videos desde blog o texto",
+        "pricing": "Gratis; Starter USD 19/mes",
+        "features": ["IA para escenas", "biblioteca de medios", "voiceover"],
+        "learn_url": "https://help.lumen5.com/hc/en-us",
+        "tool_url": "https://lumen5.com/"
+      },
+      {
+        "name": "VEED",
+        "purpose": "Edición online con IA para subtítulos y efectos",
+        "pricing": "Gratis; Basic USD 12/mes",
+        "features": ["Subtítulos automáticos", "filtros IA", "remoción ruido"],
+        "learn_url": "https://help.veed.io/",
+        "tool_url": "https://www.veed.io/"
+      },
+      {
+        "name": "InVideo",
+        "purpose": "Editor de video online con IA para texto a video",
+        "pricing": "Gratis; Business USD 15/mes",
+        "features": ["Plantillas IA", "voz IA", "media stock"],
+        "learn_url": "https://invideo.io/help/",
+        "tool_url": "https://invideo.io/"
+      },
+      {
+        "name": "Descript",
+        "purpose": "Edición de audio y video basada en transcripción",
+        "pricing": "Gratis; Creator USD 12/mes",
+        "features": ["Overdub IA", "editor basado en texto", "subtítulos"],
+        "learn_url": "https://help.descript.com/",
+        "tool_url": "https://www.descript.com/"
+      },
+      {
+        "name": "Animaker",
+        "purpose": "Animaciones/explainer videos con IA",
+        "pricing": "Gratis; Basic USD 12.99/mes",
+        "features": ["Personajes animados", "plantillas", "voz IA"],
+        "learn_url": "https://support.animaker.com/",
+        "tool_url": "https://www.animaker.com/"
+      }
+    ]
+  }
+]
