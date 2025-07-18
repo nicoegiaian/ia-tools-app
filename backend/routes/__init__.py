@@ -1,1 +1,1 @@
-from .categories import router as categories
+from backend.routes.categories import router as categories
