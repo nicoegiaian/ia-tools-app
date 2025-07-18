@@ -1,25 +1,21 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-import os
-import httpx
-from dotenv import load_dotenv
-from routes import categories
-
-
-load_dotenv()
+from routes.categories import router as categories_router  # ✅ este es el import correcto
 
 app = FastAPI()
 
-# CORS para que el frontend acceda
+# CORS para que el frontend pueda conectarse
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Reemplazá por tu dominio en prod
+    allow_origins=["*"],  # reemplazá con tus dominios en producción
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-app.include_router(categories.router)
+# Registro del router
+app.include_router(categories_router)
+
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
