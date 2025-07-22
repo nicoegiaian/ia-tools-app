@@ -13,7 +13,7 @@ origins = [
 # CORS para que el frontend pueda conectarse
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # reemplazá con tus dominios en producción
+    allow_origins=origins,  # reemplazá con tus dominios en producción
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
