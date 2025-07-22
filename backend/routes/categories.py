@@ -11,7 +11,7 @@ supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 @router.get("/categories")
 def get_categories():
     try:
-        response = supabase.table("tools").select("category").execute()
+        response = supabase.table("ia_tools").select("category").execute()
         if not response.data:
             return []
         categories = list(set([item["category"] for item in response.data if item.get("category")]))
