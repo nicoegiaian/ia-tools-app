@@ -74,7 +74,7 @@ function App() {
                     <strong>Precio:</strong> {tool.pricing}
                   </p>
                   <div className="mt-2 flex gap-3 text-sm">
-                    {tool.url && (
+                    {tool.tool_url && (
                       <a
                         href={tool.tool_url}
                         target="_blank"
