@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Category from './components/Category';
+import Category from './components/CategoryList';
 
 function App() {
   const [tools, setTools] = useState([]);
