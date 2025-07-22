@@ -16,7 +16,7 @@ function App() {
     fetch(url)
       .then((res) => res.json())
       .then((data) => setTools(data))
-      .catch((err) => console.error('Error fetching tools:', err));
+      .catch((err) => console.error('Error fetching tools:', err))
       .finally(() => setLoading(false));  // 👉 termina la carga
   };
 
