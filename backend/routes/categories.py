@@ -19,4 +19,4 @@ def get_categories():
         return categories
     except Exception as e:
         print("❌ Error al obtener categorías:", str(e))
-	raise HTTPException(status_code=500, detail=str(e))
+    raise HTTPException(status_code=500, detail=str(e))
