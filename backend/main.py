@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from backend.routes.categories import router as categories_router  # ✅ Ruta absoluta desde raíz del proyecto
+from routes.categories import router as categories_router  # ✅ Ruta absoluta desde raíz del proyecto
 
 app = FastAPI()
 
