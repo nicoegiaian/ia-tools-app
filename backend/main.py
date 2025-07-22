@@ -5,6 +5,11 @@ import os
 
 app = FastAPI()
 
+
+origins = [
+    "https://ia-tools-app-cloud.vercel.app",  # tu frontend en producción
+    "http://localhost:5173",                  # para desarrollo local (Vite)
+]
 # CORS para que el frontend pueda conectarse
 app.add_middleware(
     CORSMiddleware,
