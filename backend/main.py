@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routes.categories import router as categories_router  # ✅ Ruta absoluta desde raíz del proyecto
+from routes.tools import router as tools_router
+
 import os
 
 app = FastAPI()
@@ -21,7 +23,7 @@ app.add_middleware(
 
 # Registro del router
 app.include_router(categories_router)
-
+app.include_router(tools_router)
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
