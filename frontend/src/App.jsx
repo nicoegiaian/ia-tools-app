@@ -83,9 +83,9 @@ function App() {
                         Sitio
                       </a>
                     )}
-                    {tool.training_url && (
+                    {tool.learn_url && (
                       <a
-                        href={tool.training_url}
+                        href={tool.learn_url}
                         target="_blank"
                         className="text-green-500 underline"
                       >
