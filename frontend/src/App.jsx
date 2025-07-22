@@ -76,7 +76,7 @@ function App() {
                   <div className="mt-2 flex gap-3 text-sm">
                     {tool.url && (
                       <a
-                        href={tool.url}
+                        href={tool.tool_url}
                         target="_blank"
                         className="text-blue-500 underline"
                       >
