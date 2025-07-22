@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routes.categories import router as categories_router  # ✅ Ruta absoluta desde raíz del proyecto
+import os
 
 app = FastAPI()
 
