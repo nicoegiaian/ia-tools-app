@@ -39,10 +39,10 @@ function App() {
         }}
       />
 
-      {/* Loader ubicado cerca de las categorías */}
+      {/* Loader centrado visible siempre */}
       {loading && (
-        <div className="flex flex-col items-center justify-center mt-6 mb-4">
-          <div className="h-8 w-8 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+        <div className="flex flex-col items-center justify-center mt-6 mb-4 min-h-[100px]">
+          <div className="h-10 w-10 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
           <p className="mt-2 text-sm text-blue-600">Cargando herramientas...</p>
         </div>
       )}
