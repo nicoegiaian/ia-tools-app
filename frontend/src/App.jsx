@@ -29,17 +29,19 @@ function App() {
   };
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
-      <h1 className="text-2xl font-bold mb-6">Explorá herramientas de IA</h1>
+    <div className="max-w-4xl mx-auto px-4 py-4">
+      {/* Encabezado fijo */}
+      <div className="sticky top-0 z-10 bg-white pb-4 pt-2 shadow">
+        <h1 className="text-2xl font-bold mb-4">Explorá herramientas de IA</h1>
+        <Category
+          onSelectCategory={(cat) => {
+            setSelectedCategory(cat);
+            fetchTools(cat);
+          }}
+        />
+      </div>
 
-      <Category
-        onSelectCategory={(cat) => {
-          setSelectedCategory(cat);
-          fetchTools(cat);
-        }}
-      />
-
-      {/* Loader centrado visible siempre */}
+      {/* Loader centrado debajo de categorías */}
       {loading && (
         <div className="flex flex-col items-center justify-center mt-6 mb-4 min-h-[100px]">
           <div className="h-10 w-10 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
