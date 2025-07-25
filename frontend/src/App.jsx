@@ -29,7 +29,7 @@ function App() {
   };
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8 relative">
+    <div className="max-w-4xl mx-auto px-4 py-8">
       <h1 className="text-2xl font-bold mb-6">Explorá herramientas de IA</h1>
 
       <Category
@@ -39,12 +39,11 @@ function App() {
         }}
       />
 
+      {/* Loader ubicado cerca de las categorías */}
       {loading && (
-        <div className="absolute inset-0 z-10 bg-white bg-opacity-75 flex items-center justify-center">
-          <div className="flex flex-col items-center">
-            <div className="h-12 w-12 border-4 border-blue-500 border-dashed rounded-full animate-spin"></div>
-            <span className="mt-2 text-sm text-blue-600">Cargando herramientas...</span>
-          </div>
+        <div className="flex flex-col items-center justify-center mt-6 mb-4">
+          <div className="h-8 w-8 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+          <p className="mt-2 text-sm text-blue-600">Cargando herramientas...</p>
         </div>
       )}
 
