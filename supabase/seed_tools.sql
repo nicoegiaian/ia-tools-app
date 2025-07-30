@@ -9,6 +9,7 @@ create table if not exists ia_tools (
   official_url text,
   learning_url text
 );
+create index if not exists ia_tools_category_idx on ia_tools (category);
 
 -- Insertar datos iniciales
 insert into ia_tools (name, category, purpose, pricing, features, official_url, learning_url)
