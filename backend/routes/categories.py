@@ -11,17 +11,17 @@ supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 @router.get("/categories")
 def get_categories():
     try:
-        query = supabase.table("ia_tools").select("category")
-        query = query.order("category")
-        response = query.execute()
+        response = (
+            supabase.table("ia_tools")
+            .select("category", distinct="category")
+            .order("category")
+            .execute()
+        )
 
-        seen = set()
-        categories = []
-        for r in response.data:
-            category = r.get("category")
-            if category and category not in seen:
-                seen.add(category)
-                categories.append(category)
+        if not response.data:
+            return []
+
+        categories = [item["category"] for item in response.data if item.get("category")]
 
         return categories
     except Exception as e:
