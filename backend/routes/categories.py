@@ -12,10 +12,17 @@ supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 def get_categories():
     try:
         query = supabase.table("ia_tools").select("category")
-        query.params = query.params.set("distinct", "category")
         query = query.order("category")
         response = query.execute()
-        categories = [r["category"] for r in response.data if r.get("category")]
+
+        seen = set()
+        categories = []
+        for r in response.data:
+            category = r.get("category")
+            if category and category not in seen:
+                seen.add(category)
+                categories.append(category)
+
         return categories
     except Exception as e:
         print("❌ Error al obtener categorías:", str(e))
