@@ -25,21 +25,3 @@ app.add_middleware(
 app.include_router(categories_router)
 app.include_router(tools_router)
 
-SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_API_KEY = os.getenv("SUPABASE_API_KEY")
-
-@app.get("/tools")
-async def get_tools():
-    async with httpx.AsyncClient() as client:
-        response = await client.get(
-            f"{SUPABASE_URL}/rest/v1/ia_tools",
-            headers={
-                "apikey": SUPABASE_API_KEY,
-                "Authorization": f"Bearer {SUPABASE_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            params={"select": "*"}
-        )
-    response.raise_for_status()
-    return response.json()
-
