@@ -4,6 +4,7 @@ from routes.categories import router as categories_router  # ✅ Ruta absoluta d
 from routes.tools import router as tools_router
 
 import os
+import httpx
 
 app = FastAPI()
 
