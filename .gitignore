@@ -4,6 +4,7 @@ Thumbs.db
 *.log
 .env
 .env.*
+*:Zone.Identifier
 
 # === BACKEND ===
 backend/__pycache__/
