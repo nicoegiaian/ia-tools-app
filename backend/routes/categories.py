@@ -22,6 +22,7 @@ def get_categories():
             return []
 
         categories = [item["category"] for item in response.data if item.get("category")]
+
         return categories
     except Exception as e:
         print("❌ Error al obtener categorías:", str(e))
