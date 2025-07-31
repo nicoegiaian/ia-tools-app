@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Category from './components/CategoryList';
 
 function App() {
@@ -28,10 +28,17 @@ function App() {
     }));
   };
 
+  // Muestra una animación de carga al iniciar la aplicación
+  useEffect(() => {
+    setLoading(true);
+    const timer = setTimeout(() => setLoading(false), 1000);
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-4">
       {/* Encabezado fijo */}
-      <div className="sticky top-0 z-10 bg-white pb-4 pt-2 shadow">
+      <div className="sticky top-0 z-40 bg-white pb-4 pt-2 shadow">
         <h1 className="text-2xl font-bold mb-4">Explorá herramientas de IA</h1>
         <Category
           onSelectCategory={(cat) => {
@@ -41,11 +48,13 @@ function App() {
         />
       </div>
 
-      {/* Loader centrado debajo de categorías */}
+      {/* Animación de carga superpuesta */}
       {loading && (
-        <div className="flex flex-col items-center justify-center mt-6 mb-4 min-h-[100px]">
-          <div className="h-10 w-10 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
-          <p className="mt-2 text-sm text-blue-600">Cargando herramientas...</p>
+        <div className="loading-overlay">
+          <div className="flex flex-col items-center">
+            <div className="loader"></div>
+            <p className="mt-2 text-sm text-blue-600">Cargando herramientas...</p>
+          </div>
         </div>
       )}
 
